@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSXojo", "CSXojo\CSXojo.csproj", "{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Debug|x64.ActiveCfg = Debug|x64
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Debug|x64.Build.0 = Debug|x64
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Release|x64.ActiveCfg = Release|x64
+		{97C1CD02-EBE3-45F1-9EB5-82E9AEA21804}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D29710-D99F-48F8-94B3-1984E28414B7}
+	EndGlobalSection
+EndGlobal

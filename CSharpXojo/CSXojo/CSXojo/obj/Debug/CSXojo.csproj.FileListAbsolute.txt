@@ -1,0 +1,5 @@
+C:\test\CSharpXojo\CSXojo\CSXojo\bin\Debug\CSXojo.dll
+C:\test\CSharpXojo\CSXojo\CSXojo\bin\Debug\CSXojo.pdb
+C:\test\CSharpXojo\CSXojo\CSXojo\obj\Debug\CSXojo.csproj.CoreCompileInputs.cache
+C:\test\CSharpXojo\CSXojo\CSXojo\obj\Debug\CSXojo.dll
+C:\test\CSharpXojo\CSXojo\CSXojo\obj\Debug\CSXojo.pdb
