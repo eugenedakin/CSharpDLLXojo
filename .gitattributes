@@ -4,4 +4,4 @@
 *.xojo_binary_project linguist-language=xojo
 *.xojo_xml_project linguist-language=xojo
 *.sln linguist-language=C#
-/CSharpXojo/CSXojo/CSXojo/*.cs linguist-language=C#
+*.cs linguist-language=C#
